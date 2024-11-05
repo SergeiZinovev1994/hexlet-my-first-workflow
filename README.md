@@ -1,1 +1,1 @@
-устал я с этими репами
+[![show-directory](https://github.com/SergeiZinovev1994/hexlet-my-first-workflow/actions/workflows/show-directory.yml/badge.svg?branch=main)](https://github.com/SergeiZinovev1994/hexlet-my-first-workflow/actions/workflows/show-directory.yml)
